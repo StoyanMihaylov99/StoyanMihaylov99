@@ -1,7 +1,9 @@
 ### Hi there, I'm Stoyan 🧑‍💻
-I'm student at Software University, and I'm studying java.
+
+
+I'm currently studying Java at SoftUni.
 
 Level: Beginer✌️
 
- - ⚡ Fun fact: I'm photographer/videographer
+ - ⚡ Fun fact: I'm a photographer/videographer
 
