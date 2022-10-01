@@ -5,5 +5,11 @@ I'm currently studying Java at SoftUni.
 
 Level: Beginer✌️
 
- - ⚡ Fun fact: I'm a photographer/videographer
+  * Fun facts:
+
+ - ⚡  I'm a photographer/videographer
+ - ⚡  I love to talk about AI.
+ 
+ 
+ 
 
