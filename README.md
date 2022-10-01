@@ -8,7 +8,6 @@ Level: Beginer✌️
 
 
   * Fun facts:
-
  - ⚡  I'm a photographer/videographer
  - 🤖  I love to talk about AI.
  - 🔭  I love to explore the space with my telescope
