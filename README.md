@@ -17,7 +17,7 @@ Level: Beginer✌️
  
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StoyanMihaylov99&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoyanMihaylov99&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoyanMihaylov99&theme=radical)
  
  
 
