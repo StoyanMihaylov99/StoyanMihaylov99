@@ -1,10 +1,17 @@
 ### Hi there, I'm Stoyan 🧑‍💻
 
 
-I'm currently studying Java at SoftUni.
-
+#I'm currently studying Java at SoftUni.
 Level: Beginer✌️
 
+##Completed Courses:
+```
+Programming basics with java ✔
+Programming fundamentals with Java ✔
+Java Advanced ✔
+Java OOP ✔
+
+```
 
 
   Fun facts:
