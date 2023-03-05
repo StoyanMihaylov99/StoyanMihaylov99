@@ -2,7 +2,6 @@
 
 
 # I'm currently studying Java at SoftUni.
-Level: Beginer✌️
 
 ## Completed Courses:
 ```
