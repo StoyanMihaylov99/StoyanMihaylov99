@@ -20,7 +20,8 @@ Java OOP ✔
  
  
  
- 
+  ## Skills: 
+[![My Skills](https://skillicons.dev/icons?i=java,vscode,idea,mysql,regex)](https://skillicons.dev)
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StoyanMihaylov99&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoyanMihaylov99&theme=radical)
