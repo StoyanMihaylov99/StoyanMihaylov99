@@ -11,6 +11,7 @@ Programming basics with java ✔
 Programming fundamentals with Java ✔
 Java Advanced ✔
 Java OOP ✔
+MySQL ✔
 
 ```
 
