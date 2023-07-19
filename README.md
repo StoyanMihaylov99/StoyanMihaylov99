@@ -4,7 +4,7 @@
 
   ## Skills: 
 [![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,regex,vscode,spring)](https://skillicons.dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StoyanMihaylov99)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Completed Software University Courses:
 ```
