@@ -13,6 +13,7 @@ Programming fundamentals with Java ✔
 Java Advanced ✔
 Java OOP ✔
 MySQL ✔
+Spring Data ✔
 
 ```
 
