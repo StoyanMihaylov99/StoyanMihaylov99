@@ -8,12 +8,14 @@
 
 ## Completed Software University Courses:
 ```
-Programming basics with java ✔
-Programming fundamentals with Java ✔
-Java Advanced ✔
-Java OOP ✔
-MySQL ✔
+Spring Web ✔
 Spring Data ✔
+MySQL ✔
+Java OOP ✔
+Java Advanced ✔
+Programming fundamentals with Java ✔
+Programming basics with java ✔
+
 
 ```
 
