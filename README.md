@@ -6,17 +6,16 @@
 [![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,regex,vscode,spring)](https://skillicons.dev)
 
 
-## Completed Software University Courses:
+## Completed Courses:
 ```
-Spring Web ✔
-Spring Data ✔
-MySQL ✔
-Java OOP ✔
-Java Advanced ✔
-Programming fundamentals with Java ✔
-Programming basics with java ✔
-
-
+Oracle Java SE 11 ✔
+Spring Web - Software University ✔
+Spring Data - Software University ✔
+MySQL - Software University ✔
+Java OOP - Software University ✔
+Java Advanced - Software University ✔
+Programming fundamentals with Java - Software University ✔
+Programming basics with java - Software University ✔
 ```
 
 
