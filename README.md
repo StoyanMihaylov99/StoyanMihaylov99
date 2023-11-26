@@ -3,7 +3,7 @@
 
 
   ## Skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,regex,vscode,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,regex,vscode,spring,azure)](https://skillicons.dev)
 
 
 ## Completed Courses:
