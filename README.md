@@ -1,5 +1,5 @@
 ### Hi there, I'm Stoyan 🧑‍💻
-### I'm currently studying Java.
+### I'm currently into Java.
 
 
   ## Skills: 
