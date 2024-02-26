@@ -8,6 +8,7 @@
 
 ## Completed Courses:
 ```
+Udemy Java Data Structures & Algorithms ✔
 Oracle Java SE 11 ✔
 Spring Web - Software University ✔
 Spring Data - Software University ✔
