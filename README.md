@@ -9,14 +9,10 @@
 ## Completed Courses:
 ```
 Udemy Java Data Structures & Algorithms ✔
+Udemy Spring boot ✔
 Oracle Java SE 11 ✔
-Spring Web - Software University ✔
-Spring Data - Software University ✔
-MySQL - Software University ✔
-Java OOP - Software University ✔
-Java Advanced - Software University ✔
-Programming fundamentals with Java - Software University ✔
-Programming basics with java - Software University ✔
+MySQL ✔
+Java Web Developer - SoftUni ✔
 ```
 
 
