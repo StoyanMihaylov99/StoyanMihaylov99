@@ -3,7 +3,7 @@
 
 
   ## Skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,git,vscode,spring,azure,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,spring,azure,docker)](https://skillicons.dev)
 
 
 ## Completed Courses:
