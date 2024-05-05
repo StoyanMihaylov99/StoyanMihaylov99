@@ -1,5 +1,4 @@
 ### Hi there, I'm Stoyan 🧑‍💻
-### I'm currently into Java.
 
 
   ## Technologies I can work with: 
@@ -19,7 +18,7 @@ Java Web Developer - SoftUni ✔
 
   Fun facts:
  - ⚡  I'm a photographer/videographer.
- - 🤖  I love to talk about AI.
+ - ♟️  I love to play chess.
  - 🔭  I love to explore the space with my telescope.
  
 
