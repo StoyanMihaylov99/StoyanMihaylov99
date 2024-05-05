@@ -2,8 +2,8 @@
 ### I'm currently into Java.
 
 
-  ## Skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,git,spring,azure,docker)](https://skillicons.dev)
+  ## Technologies I can work with: 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git,azure,docker)](https://skillicons.dev)
 
 
 ## Completed Courses:
