@@ -4,7 +4,7 @@ I'm a dedicated **Software Developer** with a passion for building scalable and 
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,typescript,angular,postman,docker,kubernetes,aws,jenkins,grafana&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,typescript,angular,postman,docker,kubernetes,aws,jenkins,grafana&perline=100)](https://skillicons.dev)
 
 
 
