@@ -4,22 +4,9 @@ I'm a dedicated **Software Developer** with a passion for building scalable and 
 
 ## 🧰 Tech Stack
 
-### 💻 Backend
-- **Java** (Oracle Certified Java Developer)
-- **Spring Framework** (Spring Boot, Spring Security)
-- **REST APIs**
-- **MySQL**, **PostgreSQL**
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,typescript,angular,postman,docker,kubernetes,aws,jenkins,grafana&perline=3)](https://skillicons.dev)
 
-### 🌐 Frontend
-- **Angular** with **TypeScript**
 
-### 🧪 Tools & DevOps
-- **Postman**
-- **Docker**
-- **Kubernetes**
-- **AWS**
-- **Grafana** & **Prometheus**
-- **Maven**
 
 ## 🚀 About Me
 
