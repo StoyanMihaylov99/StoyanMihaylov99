@@ -1,18 +1,33 @@
-# 👋 Hi, I'm Stoyan Mihaylov
+![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=200&section=header&text=Software%20Engineer&fontSize=50&fontColor=ffffff)
 
-I'm a dedicated **Software Developer** with a passion for building scalable and maintainable software solutions. Since 2024, I’ve been working on real-world backend and full-stack systems, blending strong fundamentals with modern technologies.
+# Hi there
 
-## 🧰 Tech Stack
+```yaml
+name: Stoyan
+title: Software Engineer
+about: >
+  A software engineer with strong focus on microservices,
+  scalable solutions & clean code. 
+  Working across Java, C#, Angular, TypeScript,
+  AWS, Azure, Redis, Openshift, and more.
+
+interests:
+  - Cloude architechtures
+  - Microservices
+  - Abstract & High-Level Software Design
+  - Game Development 
+
+hobbies:
+  - Coding 👨🏽‍💻
+  - Board games ♟
+  - Sports 🥊 🏓 
+  - Hiking 🧗‍♂
+  - Investing 🗠
+```
+
+## Yeah I can work with that
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgres,typescript,angular,postman,docker,kubernetes,aws,jenkins,grafana)](https://skillicons.dev)
-
-
-
-## 🚀 About Me
-
-- 🇧🇬 Based in Bulgaria  
-- 🎓 Graduate of Software University | Currently studying at Plovdiv University  
-- 🧠 Always exploring new technologies and cleanest practices. 
 
 ## 📫 Also you can check
 
