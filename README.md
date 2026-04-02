@@ -5,11 +5,10 @@
 ```yaml
 name: Stoyan
 title: Software Engineer
-about: >
+about: 
   A software engineer with strong focus on microservices,
-  scalable solutions & clean code. 
-  Working across Java, C#, Angular, TypeScript,
-  AWS, Azure, Redis, Openshift, and more.
+  scalable solutions & clean code.
+  A well-written code is a thing of beauty.
 
 interests:
   - Cloude architechtures
